@@ -1,5 +1,6 @@
 pozmianiałem ppl1
 
+<<<<<<< HEAD
 function f1(){
 	robie cos 
 	cos innego
@@ -9,3 +10,16 @@ function f1(){
 function f2(){
 	robie tez cos
 }
+=======
+function f3 {
+  cos tam
+}
+
+function f4 {
+  i cos innego
+}
+
+function f5 {
+  no zupelnie innego
+}  
+>>>>>>> 091c2b2f939849621c214f8f920d87194acf7e82
