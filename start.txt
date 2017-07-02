@@ -1,1 +1,11 @@
 pozmianiałem ppl1
+
+function f1(){
+	robie cos 
+	cos innego
+	i jeszcze cos
+}
+
+function f2(){
+	robie tez cos
+}
