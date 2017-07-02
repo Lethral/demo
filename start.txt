@@ -1,1 +1,9 @@
 pozmianiałem ppl1
+
+function f3 {
+  cos tam
+}
+
+function f4 {
+  i cos innego
+}
