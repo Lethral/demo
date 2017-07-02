@@ -7,3 +7,7 @@ function f3 {
 function f4 {
   i cos innego
 }
+
+function f5 {
+  no zupelnie innego
+}  
